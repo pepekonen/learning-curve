@@ -1,2 +1,3 @@
 # learning-curve
 Programas de Pepe Lopez
+No creo que mi contribucion sea muy significativa...
